@@ -32,3 +32,5 @@ We are interested in illuminating this metabolic dark matter by developing new c
 <li><strong>Natural products:</strong> discovering new bacterial natural products with genomic and metabolomic datasets
 <li><strong>Low-data learning:</strong> developing machine learning approaches to learn from small chemical datasets
 </ul>
+
+We are <strong>recruiting at all levels<strong> (undergraduates, post-baccs, PhD students, and postdocs). If you are interested in our work, please see the <a href="/join/">join</a> page.
