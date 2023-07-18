@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 The Skinnider lab develops machine-learning approaches to identify known and unknown small molecules that are relevant to human health and disease, with mass spectrometry-based metabolomics being the primary analytical technique.
 
-The human body contains thousands of small molecules, and is exposed to thousands more during daily life. At present, however, the vast majority of these small molecules remain unknown. Whereas high-throughput techniques can now reliably measure the DNA, RNA, and protein content of any given biospecimen, enumerating the complete complement of small molecules&emdash;the <em>metabolome</em>&emdash;has proven much more challenging. Mass spectrometry (MS), the workhorse of metabolomics, is capable of detecting thousands of molecules in routine experiments, but the vast majority of these cannot be definitively identified. This profusion of unidentified chemical entities has been dubbed the “dark matter” of the metabolome.
+The human body contains thousands of small molecules, and is exposed to thousands more during daily life. At present, however, the vast majority of these small molecules remain unknown. Whereas high-throughput techniques can now reliably measure the DNA, RNA, and protein content of any given biospecimen, enumerating the complete complement of small molecules—the <em>metabolome</em>—has proven much more challenging. Mass spectrometry (MS), the workhorse of metabolomics, is capable of detecting thousands of molecules in routine experiments, but the vast majority of these cannot be definitively identified. This profusion of unidentified chemical entities has been dubbed the “dark matter” of the metabolome.
 
 We are interested in illuminating this metabolic dark matter by developing new computational approaches to identify both known and unknown small molecules using mass spectrometry. To achieve this aim, <strong>we design and apply cutting-edge AI technologies to translate mass spectrometric information into chemical structures</strong>. Some of the key challenges we are interested in include:
 
@@ -32,7 +32,3 @@ We are interested in illuminating this metabolic dark matter by developing new c
 <li><strong>Natural products:</strong> discovering new bacterial natural products with genomic and metabolomic datasets
 <li><strong>Low-data learning:</strong> developing machine learning approaches to learn from small chemical datasets
 </ul>
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
