@@ -26,11 +26,11 @@ The human body contains thousands of small molecules, and is exposed to thousand
 We are interested in illuminating this metabolic dark matter by developing new computational approaches to identify both known and unknown small molecules using mass spectrometry. To achieve this aim, we design and apply cutting-edge AI technologies to translate mass spectrometric information into chemical structures. Some of the key challenges we are interested in include:
 
 <ul>
-<li><strong>Structure elucidation:</strong> decoding unknown chemical structures from MS/MS data 
-<li><strong>Metabolomics:</strong> developing new tools for data analysis to deal with the complexity of metabolomic experiments
-<li><strong>Forensic chemistry:</strong> identifying new illicit drugs of abuse from clinical and forensic mass spectrometry data
-<li><strong>Natural products:</strong> discovering new bacterial natural products with genomic and metabolomic datasets
-<li><strong>Low-data learning:</strong> developing machine learning approaches to learn from small chemical datasets
+<li><strong>Structure elucidation:</strong> decoding unknown chemical structures from MS/MS data </li>
+<li><strong>Metabolomics:</strong> developing new tools for data analysis to deal with the complexity of metabolomic experiments</li>
+<li><strong>Forensic chemistry:</strong> identifying new illicit drugs of abuse from clinical and forensic mass spectrometry data</li>
+<li><strong>Natural products:</strong> discovering new bacterial natural products with genomic and metabolomic datasets</li>
+<li><strong>Low-data learning:</strong> developing machine learning approaches to learn from small chemical datasets</li>
 </ul>
 
-We are <strong>recruiting at all levels<strong> (undergraduates, post-baccs, PhD students, and postdocs). If you are interested in our work, please see the <a href="/join/">join</a> page.
+We are <strong>recruiting at all levels (undergraduates, post-baccs, PhD students, and postdocs)</strong>. If you are interested in our work, please see the <a href="/join/">join</a> page.
